@@ -9,6 +9,8 @@ here you can also use these template for your neural networks models for a seaml
 
 Visualisation of the training set of Social_networks_adv
 
+![](trainresult.PNG)
 
 Visualisation of the test set of Social_networks_adv
 
+![](testresult.PNG)
