@@ -6,3 +6,9 @@ This repo consists of an example dataset (i.e) a csv file which you can use to t
 Name of dataset:Data.csv and Social networks adv.csv
 
 here you can also use these template for your neural networks models for a seamless quick development
+
+Visualisation of the training set of Social_networks_adv
+
+
+Visualisation of the test set of Social_networks_adv
+
