@@ -24,8 +24,7 @@ from sklearn.linear_model import LogisticRegression
 classifier = LogisticRegression(random_state =0)
 classifier.fit(x_train,y_train)
 '''
-#Enter your classifier here
-#fit your classifier here
+
 
 #predicting the test results
 y_pred = classifier.predict(x_test)
